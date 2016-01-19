@@ -1,0 +1,9 @@
+blocks==0.0.1
+fuel==0.1.1
+h5py==2.5.0
+ipython==4.0.0
+ipython-genutils==0.1.0
+numpy==1.10.2
+Pillow==3.0.0
+Theano==0.7.0
+tqdm==3.4.0
