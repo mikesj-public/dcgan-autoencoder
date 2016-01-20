@@ -13,3 +13,5 @@ You should download the CelebA dataset from [website](http://mmlab.ie.cuhk.edu.h
 ``` ./dataprocessing.py ``` 
 
 This will crop the images to the right size and store them in HDF5 format.
+
+Next run the dcgan notbook.
