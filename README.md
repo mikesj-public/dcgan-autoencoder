@@ -1,6 +1,6 @@
 # dcgan-autoencoder
 
-This is a Theano implementation of an convolutional autoencoder trained with an adversarial network loss function.  The code in the ipython notebook owes a lot to the implementation given by [Alec Radford et al}(https://github.com/Newmu/dcgan_code).  
+This is a Theano implementation of an convolutional autoencoder trained with an adversarial network loss function.  The code in the ipython notebook owes a lot to the implementation given by [Alec Radford et al](https://github.com/Newmu/dcgan_code).  
 
 ## How to run
 
