@@ -4,7 +4,7 @@ This is a Theano implementation of an convolutional autoencoder trained with an 
 
 ## How to run
 
-The following should work on unix systems.  Working in a virtualenv, run 
+I assume knowledge of IPython (Jupyter), pip and virtualenv (not complicated to learn if not).  The following should work on unix systems.  Working in a virtualenv, run 
 
 ```pip install -r /path/to/requirements.txt```
 
