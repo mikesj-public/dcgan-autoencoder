@@ -1,6 +1,12 @@
 # dcgan-autoencoder
 
-This is a Theano implementation of an convolutional autoencoder trained with an adversarial network loss function.  The code in the ipython notebook owes a lot to the implementation given by [Alec Radford et al](https://github.com/Newmu/dcgan_code).  
+I recommend you look at the [write up of this repo](https://swarbrickjones.wordpress.com/2016/01/24/generative-adversarial-autoencoders-in-theano/) before proceeding.
+
+This is a Theano implementation of an convolutional autoencoder trained with an adversarial network loss function.  This structure was used to try and upscale some grainy images of celebrities, [written up here](https://swarbrickjones.wordpress.com/2016/01/13/enhancing-images-using-deep-convolutional-generative-adversarial-networks-dcgans/).
+
+Example output - for each triple of images, the one on the left is the original image, the middle one is the grainy version given to the autoencoder and finally the one on the right is the neural network's attempt to reconstruct the original ![My image](https://swarbrickjones.files.wordpress.com/2016/01/1452706493.png)
+
+The code in the ipython notebook closely follows the implementation given by [Alec Radford et al](https://github.com/Newmu/dcgan_code).  
 
 ## How to run
 
